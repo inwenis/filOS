@@ -1,0 +1,1 @@
+"C:\programs\Microsoft.Net.Compilers.2.3.1\tools\csc.exe" /debug+ *.cs

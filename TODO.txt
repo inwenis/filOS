@@ -1,0 +1,9 @@
+TODOs:
+i think CPU should have access to memory, maybe not now but in the future
+compile instrucitons and give the cpu compilled instrucitons,
+    compiled instructions should be used almost everywhere
+comments from OS.cs:
+    //copy instruction to memory
+    //instruction pointer (relative, since process is running in "user mode", cpu will be aware of the currently running process)
+    //memory mapping
+    //save process in process list/etc
